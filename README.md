@@ -1,4 +1,4 @@
-<h1> Sistema  de cadastro de pessoas <h1>
+<h1> Sistema  de cadastro de pessoas </h1>
 
 > Status do projeto : em andamento 
 
